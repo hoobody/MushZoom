@@ -1,0 +1,3 @@
+﻿  MushzoomGame.cpp
+C:\Users\jacob\Graphics\MushDrop\MushzoomGame.cpp(334,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MushDrop.vcxproj -> C:\Users\jacob\Graphics\MushDrop\Debug\MushDrop.exe
